@@ -4,7 +4,6 @@ area = (side)^2 and perimeter = 4 * side
 @uthor Edin Korkic
 */
 
-
 #include <iostream>
 
 using namespace std;

@@ -6,7 +6,6 @@ perimeter = 3 * side1
 @uthor Edin Korkic
 */
 
-
 #include <iostream>
 
 using namespace std;

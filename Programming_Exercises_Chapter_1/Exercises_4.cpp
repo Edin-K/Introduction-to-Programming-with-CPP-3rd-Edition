@@ -7,7 +7,6 @@
 @uthor Edin Korkic
 */
 
-
 #include <iostream>
 
 using namespace std;
@@ -19,5 +18,6 @@ int main()
     cout << " 10  50   100 " << endl;
     cout << " 25  125  250 " << endl;
     cout << " 50  250  500 " << endl;
-    return 0;
+    
+return 0;
 }
